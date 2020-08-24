@@ -1,0 +1,12 @@
+{
+  "name": "package",
+  "repo_name": "package",
+  "repo_user": "magiskboy",
+  "version": "0.0.1",
+  "author": "Magisk",
+  "author_email": "magiskboy@email.com",
+  "description": "",
+  "_copy_without_render": [
+    ".github/workflows/ci.yaml"
+  ]
+}
